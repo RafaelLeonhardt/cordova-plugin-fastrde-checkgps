@@ -1,5 +1,5 @@
 # phonegap-checkGPS
-Plugin to Check if GPS enabled on iOS and Android
+Plugin to Check if GPS enabled on iOS, Android and Browser
 
 ## install
 ```

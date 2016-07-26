@@ -28,4 +28,10 @@
 			</feature>
 		</config-file>
 	</platform>
+	<!-- browser -->
+    <platform name="browser">
+        <js-module src="src/browser/checkgps.js" name="CheckGPS">
+            <runs/>
+        </js-module>
+    </platform>
 </plugin>
